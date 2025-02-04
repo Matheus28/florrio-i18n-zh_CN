@@ -116,7 +116,7 @@ UI/Guild/Leave/Cancel=取消
 
 UI/Squad/Title=小队
 UI/Squad/Error/NotAllowed=此模式中不允许组队。
-UI/Squad/Error/Spam=你做得太频繁了。
+UI/Squad/Error/Spam=你聊得太频繁了。
 UI/Squad/Error/DoesNotExist=小队不存在。
 UI/Squad/Error/CannotJoin=你无法加入此小队。
 UI/Squad/Error/LevelDifference=你的等级与小队中其他成员的等级差距过大。
@@ -193,7 +193,7 @@ UI/Craft/Title=合成
 UI/Craft/Button=合成
 UI/Craft/Chance=成功率：{0:perc}%
 UI/Craft/UnknownChance=成功率：?%
-UI/Craft/CombineInstructions=消耗{0}个相同的花瓣来进行一次合成
+UI/Craft/CombineInstructions=消耗{0}个相同稀有度的花瓣来进行一次合成
 UI/Craft/FailureInstructions=失败会损失{0}～{1}个花瓣
 
 UI/Absorb/Title=吸收
@@ -202,12 +202,12 @@ UI/Absorb/Instructions=吸收不同品质的花瓣可以获得不同数量的经
 
 UI/CoinCraft/Title=交易
 UI/CoinCraft/Button=交易
-UI/CoinCraft/Instructions=你可以给商人一片花瓣来换一枚同样品质的硬币。
+UI/CoinCraft/Instructions=你可以给商人一片花瓣来换一枚同样稀有度的硬币。
 UI/CoinCraft/Delay=你可以{0:time:left}继续交易。
 
 UI/OracleCraft/Title=神谕
 UI/OracleCraft/Button=合成
-UI/OracleCraft/Instructions=神谕者会用一个合适的价格来保证一次合成的成功。
+UI/OracleCraft/Instructions=神使会用一个合适的价格来保证一次合成的成功。
 UI/OracleCraft/Delay=你可以{0:time:left}继续合成。
 
 UI/Plinko/Title=弹珠游戏
@@ -215,7 +215,7 @@ UI/Plinko/Auto=自动
 
 UI/UniqueCraft/Title=锻造
 UI/UniqueCraft/Button=锻造
-UI/UniqueCraft/Instructions=唯一品质的花瓣能够保存到另一个玩家锻造出相同的花瓣。<n/>此时将会返还您所消耗的超级花瓣，<n/>每锻造一次唯一花瓣，下一次锻造此唯一花瓣的成本就会增加。
+UI/UniqueCraft/Instructions=唯一品质的花瓣能够保存直到另一个玩家锻造出相同的花瓣。<n/>此时将会返还您所消耗的超级花瓣，<n/>每锻造一次唯一花瓣，下一次锻造此唯一花瓣的成本就会增加。
 UI/UniqueCraft/NoSupers=你还没有任何超级花瓣可以尝试此操作。
 
 UI/Death/Poison=剧毒
@@ -233,9 +233,9 @@ UI/Settings/Language/Automatic=自动
 UI/Settings/Realm=服务器
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
 UI/Settings/Realms/0=自动
-UI/Settings/Realms/1=Juliett（美国）
-UI/Settings/Realms/2=Romeo（欧洲）
-UI/Settings/Realms/3=Sierra（亚洲）
+UI/Settings/Realms/1=美服
+UI/Settings/Realms/2=欧服
+UI/Settings/Realms/3=亚服
 
 UI/Settings/Chat=聊天
 UI/Settings/ChatWhispers=密语聊天
