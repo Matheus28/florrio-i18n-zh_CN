@@ -302,9 +302,14 @@ Mobs/crab_mecha/Name=螃蟹
 Mobs/crab_mecha/Description=蟹博士。
 Mobs/crab_mecha/Py=pangxie
 
-Mobs/assembler/Name=重组机
+Mobs/assembler/Name=重构机
 Mobs/assembler/Py=chongzuji
 
 Mobs/barrel/Name=铀桶
 Mobs/barrel/Description=严禁以任何形式使其内容物泄露。<n/>绝不能在本月再次发生昆虫突变事故。
 Mobs/barrel/Py=youtong
+
+Mobs/beetle_mummy/Name=甲虫
+Mobs/beetle_mummy/Description=看起来不像是活物……
+Mobs/beetle_mummy/Py=jiachong
+

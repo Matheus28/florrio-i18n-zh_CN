@@ -508,7 +508,7 @@ Petals/mecha_antennae/FullName=机械触角
 Petals/mecha_antennae/Description=允许你的花朵感知更远的敌人。<n/>它的顶端额外配备了红色的警示灯。
 Petals/mecha_antennae/Py=chujiao
 
-Petals/laser/Name=激光器
+Petals/laser/Name=激光
 Petals/laser/FullName=激光器
 Petals/laser/Description=咻咻——
 Petals/laser/Py=jiguangqi
@@ -517,3 +517,8 @@ Petals/domino/Name=骨牌
 Petals/domino/FullName=多米诺骨牌
 Petals/domino/Description=伤害取决于它有多少点。
 Petals/domino/Py=gupai
+
+Petals/bandage/Name=绷带
+Petals/bandage/FullName=绷带
+Petals/bandage/Description=临死时，花朵会进入<c val="{#Colors/undead}">亡灵</c>状态一段时间。<n/>使用后在一定时间内不能复活。
+Petals/bandage/Py=bengdai

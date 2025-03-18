@@ -18,6 +18,8 @@ Maps/jungle/Name=丛林
 
 Maps/ocean/Name=海洋
 
+Maps/pyramid/Name=金字塔
+
 Maps/sewers/Name=下水道
 
 Maps/worm/Name=蠕虫
