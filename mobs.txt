@@ -287,7 +287,7 @@ Mobs/mecha_flower/Description=有些人一直在制作这些机械的花朵…�
 Mobs/mecha_flower/Py=jixiehua
 
 Mobs/wasp_mecha/Name=胡蜂
-Mobs/wasp_mecha/Description=它们“机” 其 生 气。
+Mobs/wasp_mecha/Description=它们“机”其生气。
 Mobs/wasp_mecha/Py=hufeng
 
 Mobs/spider_mecha/Name=蜘蛛
@@ -303,7 +303,7 @@ Mobs/crab_mecha/Description=蟹博士。
 Mobs/crab_mecha/Py=pangxie
 
 Mobs/assembler/Name=重构机
-Mobs/assembler/Py=chongzuji
+Mobs/assembler/Py=chonggouji
 
 Mobs/barrel/Name=铀桶
 Mobs/barrel/Description=严禁以任何形式使其内容物泄露。<n/>绝不能在本月再次发生昆虫突变事故。
