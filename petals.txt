@@ -520,5 +520,15 @@ Petals/domino/Py=gupai
 
 Petals/bandage/Name=绷带
 Petals/bandage/FullName=绷带
-Petals/bandage/Description=临死时，花朵会进入<c val="{#Colors/undead}">亡灵</c>状态一段时间。<n/>使用后在一定时间内不能复活。
+Petals/bandage/Description=临死时，在有限的时间内将花转为<c val="{#Colors/undead}">不死</c>状态。<n/>延迟死亡直到时间结束。<n/>使用后在一定时间内不能被复活。
 Petals/bandage/Py=bengdai
+
+Petals/crown/Name=王冠
+Petals/crown/FullName=法老之冠
+Petals/crown/Description=召唤<c val="{#Colors/undead}">亡灵</c>甲虫为你而战。
+Petals/crown/Py=wangguan
+
+Petals/totem/Name=图腾
+Petals/totem/FullName=图腾
+Petals/totem/Description=击杀一个敌人后获得一段时间的持续生命恢复。
+Petals/totem/Py=tuteng

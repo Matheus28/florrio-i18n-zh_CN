@@ -310,6 +310,13 @@ Mobs/barrel/Description=严禁以任何形式使其内容物泄露。<n/>绝不�
 Mobs/barrel/Py=youtong
 
 Mobs/beetle_mummy/Name=甲虫
-Mobs/beetle_mummy/Description=看起来不像是活物……
+Mobs/beetle_mummy/Description=它看起来不像是个活物……
 Mobs/beetle_mummy/Py=jiachong
 
+Mobs/tomb/Name=棺材
+Mobs/tomb/Description=这具棺材里放着什么呢？
+Mobs/tomb/Py=guancai
+
+Mobs/beetle_pharaoh/Name=甲虫
+Mobs/beetle_pharaoh/Description=它头顶的东西看起来价值连城...或许我们应该夺走它。
+Mobs/beetle_pharaoh/Py=jiachong

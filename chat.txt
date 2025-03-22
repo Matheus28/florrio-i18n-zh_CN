@@ -8,6 +8,15 @@ Chat/PetalCraftedNamed/unique={1}锻造了{#Rarities/{0:rarity}/Name}品质的{#
 Chat/PetalCraftedUnnamed/not-unique=有人合成了{#Petals/AnnouncementPrefix:0}！
 Chat/PetalCraftedNamed/not-unique={1}合成了{#Petals/AnnouncementPrefix:0}！
 
+Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic}
+Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic}
+Chat/PetalFoundUnnamed/generic=有人发现了{#Petals/AnnouncementPrefix:0}！
+Chat/PetalFoundNamed/generic={1}发现了{#Petals/AnnouncementPrefix:0}！
+
+
+Chat/PetalFoundUnnamed/crown=有人夺走了{#Rarities/{0:rarity}/Name}品质的{#Petals/{0:base}/FullName}！
+Chat/PetalFoundNamed/crown={1}夺走了{#Rarities/{0:rarity}/Name}品质的{#Petals/{0:base}/FullName}！
+
 Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
 Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
 
