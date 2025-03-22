@@ -39,7 +39,7 @@ Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">吸血：</c>{0:tooltip}
 Mob/Attribute/Lightning=<c val="{#Colors/lightning}">闪电：</c>{0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">反弹：</c>{0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">闪避：</c>{0:perc}%
-Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">延存期:</c> {0:tooltipTime}
+Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">死亡延缓：</c> {0:tooltipTime}
 
 Petal/Attribute/Health=<c val="{#Colors/health}">耐久：</c>{0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">伤害：</c>{0:tooltip}
