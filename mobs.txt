@@ -318,5 +318,5 @@ Mobs/tomb/Description=这具棺材里放着什么呢？
 Mobs/tomb/Py=guancai
 
 Mobs/beetle_pharaoh/Name=甲虫
-Mobs/beetle_pharaoh/Description=它头顶的东西看起来价值连城...或许我们应该夺走它。
+Mobs/beetle_pharaoh/Description=它头顶的东西看起来价值连城……或许我们应该夺走它。
 Mobs/beetle_pharaoh/Py=jiachong
