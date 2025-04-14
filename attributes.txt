@@ -120,6 +120,6 @@ Petal/Attribute/Reload=<c val="{#Colors/generic}">冷却时间：</c>-{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">被标记者将在冥界被困{0:time}。</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">激活制导：</c>{#Petals/{0:base}/FullName}（{#Rarities/{0:rarity}/NameColored}及以下等级）
 Petal/Attribute/Broken=<c val="{#Colors/danger}">已损坏。</c>
-Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">死亡延缓：</c> {0:tooltipTime}
-Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">无法复活：</c> {0:tooltipTime}
+Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">死亡延缓：</c>{0:tooltipTime}
+Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">无法复活：</c>{0:tooltipTime}
 Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">身体伤害：</c>-{0:perc}%
