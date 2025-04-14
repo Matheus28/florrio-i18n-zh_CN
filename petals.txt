@@ -511,16 +511,16 @@ Petals/mecha_antennae/Py=chujiao
 Petals/laser/Name=激光
 Petals/laser/FullName=激光器
 Petals/laser/Description=咻咻——
-Petals/laser/Py=jiguangqi
+Petals/laser/Py=jiguang
 
 Petals/domino/Name=骨牌
 Petals/domino/FullName=多米诺骨牌
-Petals/domino/Description=伤害取决于它有多少点。
+Petals/domino/Description=伤害取决于它有多少点数。
 Petals/domino/Py=gupai
 
 Petals/bandage/Name=绷带
 Petals/bandage/FullName=绷带
-Petals/bandage/Description=临死时，在有限的时间内将花转为<c val="{#Colors/undead}">不死</c>状态。<n/>延迟死亡直到时间结束。<n/>使用后在一定时间内不能被复活。
+Petals/bandage/Description=临死时，在有限的时间内将花朵转变为<c val="{#Colors/undead}">不死</c>状态。<n/>延迟死亡直到时间结束。<n/>使用后在一定时间内不能被复活。
 Petals/bandage/Py=bengdai
 
 Petals/crown/Name=王冠
