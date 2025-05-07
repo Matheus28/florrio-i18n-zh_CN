@@ -245,8 +245,8 @@ UI/UniqueCraft/Button=锻造
 UI/UniqueCraft/Instructions=唯一品质的花瓣能够保存到另一个玩家锻造出相同的花瓣。<n/>此时将会返还您所消耗的超级花瓣，<n/>每锻造一次唯一花瓣，下一次锻造此唯一花瓣的成本就会增加。
 UI/UniqueCraft/NoSupers=你还没有任何超级花瓣可以尝试此操作。
 
-UI/AssemblerCraft/Title=重组
-UI/AssemblerCraft/Button=重组
+UI/AssemblerCraft/Title=重构
+UI/AssemblerCraft/Button=重构
 UI/AssemblerCraft/Instructions=将一些特定的花瓣重构为一个全新形态。
 
 UI/Death/Poison=剧毒
