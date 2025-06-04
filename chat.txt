@@ -55,7 +55,7 @@ Chat/Squad/Left=你离开了小队。
 Chat/Squad/MemberJoined={0}加入了小队。
 Chat/Squad/MemberLeft={0}离开了小队。
 
-Chat/Channel/Local=本地
+Chat/Channel/Local=附近
 Chat/Channel/Squad=小队
 Chat/Channel/Guild=公会
 Chat/Channel/Whisper=密语
