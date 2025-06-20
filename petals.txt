@@ -8,8 +8,8 @@ Petals/light/FullName=轻
 Petals/light/Description=比大多数花瓣弱，但冷却非常快。
 Petals/light/Py=qing
 
-Petals/rock/Name=岩石
-Petals/rock/FullName=岩石
+Petals/rock/Name=石头
+Petals/rock/FullName=石头
 Petals/rock/Description=极为耐用，但冷却时间稍长。
 Petals/rock/Py=yanshi
 
