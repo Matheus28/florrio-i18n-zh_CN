@@ -11,7 +11,7 @@ Petals/light/Py=qing
 Petals/rock/Name=石头
 Petals/rock/FullName=石头
 Petals/rock/Description=极为耐用，但冷却时间稍长。
-Petals/rock/Py=yanshi
+Petals/rock/Py=shitou
 
 Petals/square/Name=正方形
 Petals/square/FullName=正方形
