@@ -306,7 +306,7 @@ Mobs/assembler/Name=重构机
 Mobs/assembler/Py=chonggouji
 
 Mobs/barrel/Name=铀桶
-Mobs/barrel/Description=严禁以任何形式使其内容物泄漏。<n/>绝不容许在本月再次发生昆虫突变事故。
+Mobs/barrel/Description=严禁以任何形式使其内容物泄漏。<n/>绝不能在本月内再次发生昆虫突变事故。
 Mobs/barrel/Py=youtong
 
 Mobs/beetle_mummy/Name=甲虫
