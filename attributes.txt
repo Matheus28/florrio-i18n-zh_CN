@@ -116,7 +116,7 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">闪电：</c>{0:to
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">生成消耗：</c>{0:tooltip}<c val="{#Colors/mana}">魔力</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">维持消耗：</c>{0:tooltip}<c val="{#Colors/mana}">魔力</c>/秒
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">携带后有{0:perc}%的概率可以从生物获得额外的一份掉落物</c>
-Petal/Attribute/Reload=<c val="{#Colors/generic}">冷却时间：</c>-{0:perc}%
+Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">冷却时间：</c>-{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">被标记者将在冥界被困{0:time}。</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">激活制导：</c>{#Petals/{0:base}/FullName}（{#Rarities/{0:rarity}/NameColored}及以下等级）
 Petal/Attribute/Broken=<c val="{#Colors/danger}">已损坏。</c>
