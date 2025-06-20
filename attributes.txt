@@ -39,7 +39,7 @@ Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">吸血：</c>{0:tooltip}
 Mob/Attribute/Lightning=<c val="{#Colors/lightning}">闪电：</c>{0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">反弹：</c>{0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">闪避：</c>{0:perc}%
-Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">死亡延缓：</c> {0:tooltipTime}
+Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">死亡延缓：</c>{0:tooltipTime}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">冷却时间：</c>{0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">副本数量：</c>{0:tooltip}
@@ -61,7 +61,7 @@ Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">剧毒抗性：</c>{0
 Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">花朵生命值：</c>{0:tooltip}
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">花朵生命值：</c>+{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">持续时间：</c>{0:tooltipTime}
-Petal/Attribute/Duration2=<c val="{#Colors/duration}">延存期：</c> {0:tooltipTime} + {1:tooltipTime}
+Petal/Attribute/Duration2=<c val="{#Colors/duration}">延存期：</c>{0:tooltipTime} + {1:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
 Petal/Attribute/Contents1=<c val="{#Colors/generic}">内含：</c>{#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">内含：</c>{0}个{#Mobs/{1:base}/Name}（{#Rarities/{1:rarity}/NameColored}）
