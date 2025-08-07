@@ -116,7 +116,7 @@ Petals/salt/Py=yan
 Petals/rice/Name=米
 Petals/rice/FullName=米
 Petals/rice/Description=冷却速度很快，但不是很强。
-Petals/rice/Py=dami
+Petals/rice/Py=mi
 
 Petals/corn/Name=玉米
 Petals/corn/FullName=玉米
