@@ -295,7 +295,7 @@ Mobs/spider_mecha/Description=“机”其吓人。
 Mobs/spider_mecha/Py=zhizhu
 
 Mobs/leafbug_shiny/Name=叶虫
-Mobs/leafbug_shiny/Description=它有跟它一样特殊的颜色……
+Mobs/leafbug_shiny/Description=这只的颜色有些与众不同……
 Mobs/leafbug_shiny/Py=yechong
 
 Mobs/crab_mecha/Name=螃蟹
