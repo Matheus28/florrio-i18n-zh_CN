@@ -90,7 +90,7 @@ Mobs/scorpion/Description=它！会！蜇！人！
 Mobs/scorpion/Py=xiezi
 
 Mobs/fire_ant_soldier/Name=火兵蚁
-Mobs/fire_ant_soldier/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
+Mobs/fire_ant_soldier/Description=这只蚂蚁着火了啊啊啊啊啊啊啊啊啊啊啊啊啊！
 Mobs/fire_ant_soldier/Py=huobingyi
 
 Mobs/fire_ant_burrow/Name=火蚁穴
@@ -110,7 +110,7 @@ Mobs/bumble_bee/Description=要 跑 起 来 了 ！
 Mobs/bumble_bee/Py=xiongfeng
 
 Mobs/shell/Name=扇贝
-Mobs/shell/Description=这可不是那个广告牌。
+Mobs/shell/Description=这不是一个广告。
 Mobs/shell/Py=shanbei
 
 Mobs/starfish/Name=海星
@@ -147,15 +147,15 @@ Mobs/dandelion/Description=蓬松。
 Mobs/dandelion/Py=pugongying
 
 Mobs/fire_ant_baby/Name=火幼蚁
-Mobs/fire_ant_baby/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
+Mobs/fire_ant_baby/Description=这只蚂蚁着火了啊啊啊啊啊啊啊啊啊啊啊啊啊！
 Mobs/fire_ant_baby/Py=huoyouyi
 
 Mobs/fire_ant_worker/Name=火工蚁
-Mobs/fire_ant_worker/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
+Mobs/fire_ant_worker/Description=这只蚂蚁着火了啊啊啊啊啊啊啊啊啊啊啊啊啊！
 Mobs/fire_ant_worker/Py=huogongyi
 
 Mobs/fire_ant_queen/Name=火蚁后
-Mobs/fire_ant_queen/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
+Mobs/fire_ant_queen/Description=这只蚂蚁着火了啊啊啊啊啊啊啊啊啊啊啊啊啊！
 Mobs/fire_ant_queen/Py=huoyihou
 
 Mobs/ant_egg/Name=蚁卵

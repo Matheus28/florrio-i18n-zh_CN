@@ -75,7 +75,7 @@ UI/Damage/Evade=闪避
 # When the target evades damage
 UI/Damage/Miss=未命中
 
-UI/Death/Title=你死于：
+UI/Death/Title=你死于
 UI/Death/NoSource=一个神秘的实体
 UI/Death/Continue=继续
 UI/Death/Close=关闭
