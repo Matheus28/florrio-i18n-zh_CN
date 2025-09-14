@@ -490,12 +490,12 @@ Petals/wax/Py=fengla
 
 Petals/golden_leaf/Name=叶子
 Petals/golden_leaf/FullName=黄金叶子
-Petals/golden_leaf/Description=非常特殊的叶子，似乎能让你的花瓣获得新的节奏。
+Petals/golden_leaf/Description=非常特殊的叶子，似乎能给你的花瓣赋予新的节奏，让你更频繁地使用其他花瓣。
 Petals/golden_leaf/Py=yezi
 
 Petals/cog/Name=齿轮
 Petals/cog/FullName=齿轮
-Petals/cog/Description=它似乎什么用也没有……
+Petals/cog/Description=似乎没什么用……
 Petals/cog/Py=chilun
 
 Petals/monstera/Name=龟背竹
@@ -520,7 +520,7 @@ Petals/domino/Py=gupai
 
 Petals/bandage/Name=绷带
 Petals/bandage/FullName=绷带
-Petals/bandage/Description=临死时，在有限的时间内将花朵转变为<c val="{#Colors/undead}">不死</c>状态。<n/>延迟死亡直到时间结束。<n/>使用后在一定时间内不能被复活。
+Petals/bandage/Description=临死时，花朵会在有限时间内变为<c val="{#Colors/undead}">不死</c>状态。<n/>延迟死亡直到时间结束。<n/>在此期间，花朵的<c val="{#Colors/damage}">身体伤害</c>会降低。<n/>使用后在一定时间内无法被复活。
 Petals/bandage/Py=bengdai
 
 Petals/crown/Name=王冠
@@ -536,5 +536,10 @@ Petals/totem/Py=tuteng
 
 Petals/triangle/Name=三角形
 Petals/triangle/FullName=三角形
-Petals/triangle/Description=它的量变给我们带来了真正的质变。
+Petals/triangle/Description=它的量变给我们带来了真正的质变。<n/>每多装备一个此花瓣，都会使其伤害获得提升。
 Petals/triangle/Py=sanjiaoxing
+
+Petals/electric_web/Name=网
+Petals/electric_web/FullName=电网
+Petals/electric_web/Description=黏性稍弱，却更令人震惊。
+Petals/electric_web/Py=wang
